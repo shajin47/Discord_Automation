@@ -6,7 +6,7 @@ intents.message_content = True
 intents.presences = False
 
 
-
+# change
 # Send messages
 async def send_message(message, user_message, is_private):
     try:
